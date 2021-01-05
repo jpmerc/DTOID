@@ -1,0 +1,10 @@
+numpy
+opencv-python
+Pillow
+tqdm
+matplotlib
+pandas
+torch==1.1.0
+torchvision==0.2.2.post3
+cffi
+pyyaml
