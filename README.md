@@ -2,7 +2,7 @@
 
 This repository makes it possible to run our network for the Linemod dataset. Our paper is available online here (https://arxiv.org/abs/1911.11822) and has been published in WACV 2021. 
 
-## Prerequisites
+## Notice
 Our approach has been developed/tested on Pytorch 0.4.1 and Python 3.6.2 and has not been tested with other setups. In this case, for compatibility problems between CUDA and Pytorch, we test under different conditions and it may not yield the same results as in our submission.
 
 ## Instructions
